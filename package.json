@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "dev" : "nodemon server/app.js"
+    "dev" : "nodemon ./meanBackend/server/app.js"
   },
   "private": true,
   "dependencies": {
